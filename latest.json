@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "download_url": "https://github.com/narrapavanreddy/share-watcher-releases/releases/download/v1.5.1/ShareWatcher-Setup.exe",
-  "sha256": "1e71c3c8597d0bde65b4347b5493d0b573e35e211b68ccd5b6a5c0454494cbe8",
+  "version": "1.6.0",
+  "download_url": "https://github.com/narrapavanreddy/share-watcher-releases/releases/download/v1.6.0/ShareWatcher-Setup.exe",
+  "sha256": "cd94ffde6a23f28581b4ae17a4a52e24b6cee487d9ea7bf22fe44a9722f11545",
   "mandatory": false,
-  "notes": "Share Watcher 1.5.1",
-  "published": "2026-08-25 12:07 UTC"
+  "notes": "Share Watcher 1.6.0",
+  "published": "2026-08-25 12:11 UTC"
 }
